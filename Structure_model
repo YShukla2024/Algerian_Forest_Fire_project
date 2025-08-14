@@ -1,0 +1,12 @@
+Algerian_Forest_Fire_Detection/
+│
+├── application.py           # Flask app entry point
+├── requirements.txt         # All dependencies
+├── README.md                # Project documentation
+├── .gitignore               # Ignore unnecessary files
+│
+├── Dataset/                 # Dataset (if redistribution allowed)
+├── Model/                   # Saved RidgeCV trained model (model.pkl)
+├── Notebook/                # Jupyter notebooks (EDA, FE, Model training)
+├── templates/               # HTML templates for Flask
+└── static/                  # CSS, JS, images (optional)
